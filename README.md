@@ -1,4 +1,4 @@
-Heaven of Craft
+## HEAVEN OF CRAFT
 
 A landing page for a handcrafted goods brand built with HTML, CSS, and vanilla JavaScript.
 
